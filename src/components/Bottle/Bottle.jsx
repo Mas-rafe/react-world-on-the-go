@@ -14,6 +14,7 @@ const Bottle = ({ bottle }) => {
                <p>${price}</p>
                <p>{ratings}</p>
                <p>Available:{stock}</p>
+               <p>Give us your review</p>
                </div>
                <h2>{seller}</h2>
             </div>
